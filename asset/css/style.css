@@ -233,3 +233,46 @@ header {
     color: white;
     margin: 5px 15px;
 }
+
+/* section-5 */
+.container-section-5 {
+    margin: 40px;
+    line-height: 30px;
+    padding: 15px 0px;
+}
+
+.container-section-5>p {
+    margin-top: 40px;
+
+}
+
+.container-section-5>h1 {
+    font-size: 40px;
+    color: #9593e6;
+    padding-top: 30px;
+}
+
+.box-photo-section-5 {
+    margin-top: 40px;
+}
+
+.box-photo-section-5>h2 {
+    font-size: 28px;
+    color: #9593e6;
+    margin-top: 35px;
+}
+
+.button-violet-5 {
+    padding: 10px;
+    width: 50%;
+    border: none;
+    border-radius: 20px;
+    background-color: #9593e6;
+    color: white;
+    margin: 30px 0px;
+}
+
+.box-photo-section-5>img {
+    clip-path: circle();
+    width: 50%;
+}
