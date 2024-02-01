@@ -323,3 +323,94 @@ header {
 .container-footer>p {
     padding-bottom: 50px;
 }
+
+/* RESPONSIVE MEDIA */
+
+/* tablet */
+@media screen and (min-width:768px) {
+    .container-section-1 {
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+    .card {
+        width: calc(100% / 3 - 40px);
+        margin: 10px;
+
+    }
+
+    .first-card {
+        width: 60%;
+    }
+
+    .box-2-section-2>img {
+        width: 60%;
+    }
+
+    .box-1-section-2>h1 {
+        padding: 30px 0px;
+        font-size: 40px;
+    }
+
+    .card-section-3 {
+        display: flex;
+        flex-direction: row;
+    }
+
+    .card-section-3>img {
+        width: 30%;
+    }
+
+    .card-section-3 p {
+        padding: 0;
+    }
+
+    .container-text-section-3 {
+        display: flex;
+        text-align: start;
+        flex-direction: column;
+    }
+
+    .container-section-4 {
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+    .card-section-4 {
+        width: calc(100% / 2 - 80px);
+        flex-wrap: wrap;
+    }
+
+    .container-section-5 {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+    }
+
+    .box {
+        width: calc(100% / 2 - 80px);
+        margin: 0;
+    }
+
+    .box>h1 {
+        font-size: 40px;
+        padding-bottom: 30px;
+        color: #9593e6;
+    }
+
+    .container-section-6 p {
+        margin: 0px 100px;
+    }
+
+    .container-section-6 input {
+        width: 25%;
+    }
+
+    .container-footer p {
+        margin: 10px 150px;
+    }
+}
