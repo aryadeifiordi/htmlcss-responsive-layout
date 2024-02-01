@@ -1,6 +1,109 @@
+/* generics */
 * {
     box-sizing: border-box;
     margin: 0px;
     padding: 0px;
-    
+    /* border: 2px dashed red; */
+}
+
+body {
+    font-family: sans-serif;
+}
+
+img {
+    width: 100%;
+}
+
+body {
+    font-family: 'PT Sans', sans-serif;
+}
+
+/* flex */
+.flex {
+    display: flex;
+}
+
+.column {
+    display: flex;
+    flex-direction: column;
+}
+
+/* utilities */
+.card {
+    min-height: 200px;
+    background-color: #b5ddff;
+    text-align: center;
+    padding: 20px;
+    border-radius: 20px;
+    margin: 20px;
+    padding-bottom: 0;
+    line-height: 25px;
+    align-items: center;
+}
+
+/* header */
+header {
+    position: fixed;
+    background-color: #0084fd;
+    width: 100%;
+    min-height: 80px;
+    z-index: 1;
+}
+
+.container-header {
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+
+}
+
+.menu-list {
+    display: none;
+}
+
+.bars {
+    color: white;
+}
+
+/* main */
+
+/* section-1 */
+.container-section-1 {
+    padding-top: 100px;
+}
+
+.phone-img {
+    display: flex;
+}
+
+.card>h2 {
+    color: #0084fd;
+    margin-bottom: 30px;
+}
+
+.button-blue {
+    margin: 30px;
+    padding: 10px;
+    width: 50%;
+    border: none;
+    border-radius: 20px;
+    background-color: #356dfa;
+    color: white;
+}
+
+.bars>i {
+    font-size: 35px;
+}
+
+.file {
+    color: #0084fd;
+}
+
+.card-icon {
+    padding-bottom: 30px;
+}
+
+.card>span {
+    font-size: 80px;
+    padding: 20px;
 }
