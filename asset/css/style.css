@@ -276,3 +276,38 @@ header {
     clip-path: circle();
     width: 50%;
 }
+
+/* section-6 */
+.container-section-6 {
+    background-color: #9593e6;
+    align-items: center;
+    text-align: center;
+    line-height: 30px;
+    padding: 40px;
+    color: white;
+}
+
+.container-section-6>h2 {
+    padding-top: 10px;
+    font-size: 25px;
+}
+
+.container-section-6>h1 {
+    padding: 40px;
+    font-size: 40px;
+    color: yellow;
+}
+
+.button-section-6 {
+    margin: 30px;
+    padding: 10px;
+    width: 50%;
+    border: none;
+    border-radius: 20px;
+    background-color: white;
+    color: #9593e6;
+}
+
+.privacy {
+    color: white;
+}
