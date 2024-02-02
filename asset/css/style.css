@@ -110,7 +110,7 @@ header {
 
 /* section-2 */
 .container-section-2 {
-    background-color: #9593e6;
+    background-color: #9892ea;
     margin-top: 50px;
     padding: 50px 0px;
 }
@@ -147,7 +147,7 @@ header {
     border-radius: 100%;
     margin: 30px;
     font-size: 20px;
-    background-color: #9593e6;
+    background-color: #9892ea;
 }
 
 .box-2-section-2>img {
@@ -169,12 +169,12 @@ header {
     line-height: 40px;
     padding: 40px;
     font-size: 30px;
-    color: #9593e6;
+    color: #9892ea;
 }
 
 .card-section-3 {
     margin: 30px 0px;
-    background-color: #9593e6;
+    background-color: #9892ea;
     padding: 40px 10px;
     color: white;
     border-radius: 50px;
@@ -196,11 +196,11 @@ header {
     line-height: 30px;
     border-radius: 25px;
     padding: 20px 10px;
-    color: #9593e6;
+    color: #9892ea;
 }
 
 .section-4{
-    background-color: #9593e6;
+    background-color: #9892ea;
 }
 
 .title-section-4 {
@@ -229,7 +229,7 @@ header {
     width: 50%;
     border: none;
     border-radius: 20px;
-    background-color: #9593e6;
+    background-color: #9892ea;
     color: white;
     margin: 5px 15px;
 }
@@ -267,7 +267,7 @@ header {
     width: 50%;
     border: none;
     border-radius: 20px;
-    background-color: #9593e6;
+    background-color: #9892ea;
     color: white;
     margin: 30px 0px;
 }
@@ -279,7 +279,7 @@ header {
 
 /* section-6 */
 .container-section-6 {
-    background-color: #9593e6;
+    background-color: #9892ea;
     align-items: center;
     text-align: center;
     line-height: 30px;
@@ -305,7 +305,7 @@ header {
     border: none;
     border-radius: 20px;
     background-color: white;
-    color: #9593e6;
+    color: #9892ea;
 }
 
 .privacy {
@@ -399,7 +399,7 @@ header {
     .box>h1 {
         font-size: 40px;
         padding-bottom: 30px;
-        color: #9593e6;
+        color: #9892ea;
     }
 
     .container-section-6 p {
