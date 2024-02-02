@@ -432,7 +432,7 @@ header {
 
 
 /* dekstop */
-@media screen and (min-width:992px) {
+@media screen and (min-width:1200px) {
     .container-header {
         margin: 0px 120px;
     }
