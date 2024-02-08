@@ -544,20 +544,16 @@ header {
 }
 /* Desktop */
 @media screen and (min-width: 1200px) {
-    /* Aggiustamenti per desktop */
 
-    /* Esempio di regole per desktop */
     .container-header {
         margin: 0px 120px;
     }
 
-    .bars {
-        display: none;
-    }
+ 
 
     .menu-list {
         display: block;
     }
 
-    /* Altre regole per desktop... */
+    
 }
