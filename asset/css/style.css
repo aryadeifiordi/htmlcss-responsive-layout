@@ -342,7 +342,7 @@ header {
 /* RESPONSIVE MEDIA */
 
 /* tablet */
-@media screen and (min-width:768px) {
+@media screen and (min-width:481px) {
     .container-section-1 {
         display: flex;
         flex-direction: row;
@@ -432,7 +432,7 @@ header {
 
 
 /* dekstop */
-@media screen and (min-width:1200px) {
+@media screen and (min-width:768px) {
     .container-header {
         margin: 0px 120px;
     }
@@ -541,4 +541,23 @@ header {
 
 
 
+}
+/* Desktop */
+@media screen and (min-width: 1200px) {
+    /* Aggiustamenti per desktop */
+
+    /* Esempio di regole per desktop */
+    .container-header {
+        margin: 0px 120px;
+    }
+
+    .bars {
+        display: none;
+    }
+
+    .menu-list {
+        display: block;
+    }
+
+    /* Altre regole per desktop... */
 }
